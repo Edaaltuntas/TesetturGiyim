@@ -40,6 +40,7 @@ public static void main(String[] args) throws FileNotFoundException {
                     continue;
                 case 4:
                     fiş.FisCikar();
+                    System.out.println("Fişiniz test.txt dosyasına yazdırıldı.");
                     break;
                 case 5:
                     System.out.println("Yine bekleriz");
