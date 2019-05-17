@@ -1,0 +1,8 @@
+FİŞ---------------------------
+null:  0TL
+null:  0TL
+null:  0TL
+null:  0TL
+kısa:  60TL
+eşarp:  100TL
+Toplam Fiyat : 160TL
